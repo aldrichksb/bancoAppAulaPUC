@@ -7,7 +7,8 @@
       "tipo": "lata",
       "estilo": "pilsen",
       "produtora": "empresa a",
-      "teor": "10%"
+      "teor": "10%",
+      "imagem": "https://uploads-ssl.webflow.com/5c11655d98d64953510d3830/5c893a6a4793fa2a05a455a5_21A-ElSully-12oz.png"
     },
   {
     "id": 2,
@@ -16,7 +17,8 @@
     "tipo": "garrafa",
     "estilo": "pilsen",
     "produtora": "empresa b",
-    "teor": "5%"
+    "teor": "5%",
+    "imagem": "https://dth50iqs19w2y.cloudfront.net/5d/d9ca50adcb11e7a7094dddb15ab55f/braxton-revamp-IPA-can.png"
   },
   {
     "id": 3,
@@ -25,7 +27,8 @@
     "tipo": "growler",
     "estilo": "ale",
     "produtora": "empresa c",
-    "teor": "1%"
+    "teor": "1%",
+    "imagem": "https://www.braxtonbrewing.com/wp-content/uploads/2015/09/1up_Rendering_Face.png"
   },
     {
     "id": 4,
@@ -34,7 +37,8 @@
     "tipo": "crowler",
     "estilo": "pale ale",
     "produtora": "empresa d",
-    "teor": "0%"
+    "teor": "0%",
+    "imagem": "https://uploads-ssl.webflow.com/5c11655d98d64953510d3830/5c91552d9c3527965607e82a_21A-BabyHorse-12oz.png"
   },
     {
     "id": 5,
@@ -43,7 +47,8 @@
     "tipo": "lata",
     "estilo": "stout",
     "produtora": "empresa e",
-    "teor": "0%"
+    "teor": "0%",
+    "imagem": "https://burntcitybrewing.com/wp-content/uploads/2018/11/Oktoberfest18.png"
   },
   {
     "id": 6,
@@ -52,7 +57,8 @@
     "tipo": "garrafa",
     "estilo": "ipa",
     "produtora": "empresa f",
-    "teor": "4%"
+    "teor": "4%",
+    "imagem": "https://myonlybeer.com/Content/img/Photogallery/Original/38162.png"
   }
   ]
 }
